@@ -1,0 +1,151 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "aa",
+      "password": "aa",
+      "email": "aaa"
+    },
+    {
+      "username": "userTest",
+      "password": "userTest",
+      "email": "userTest@mail.fr",
+      "id": 3
+    },
+    {
+      "username": "turlututu",
+      "password": "chapeaupointu",
+      "email": "turlututu@chapeaupointu.fr",
+      "id": 4
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "email": "test@test.fr",
+      "id": 5
+    }
+  ],
+  "course": [
+    {
+      "courseName": "Rallye des noix",
+      "location": "Firminy",
+      "createdAt": "2023-08-31",
+      "id": 1
+    },
+    {
+      "courseName": "Grand Prix de Paris",
+      "location": "Paris",
+      "createdAt": "2023-09-01",
+      "id": 2
+    },
+    {
+      "courseName": "Course de montagne",
+      "location": "Chamonix",
+      "createdAt": "2023-09-05",
+      "id": 3
+    },
+    {
+      "courseName": "Tour de la forêt",
+      "location": "Strasbourg",
+      "createdAt": "2023-09-10",
+      "id": 4
+    },
+    {
+      "courseName": "Marathon de la mer",
+      "location": "Marseille",
+      "createdAt": "2023-09-15",
+      "id": 5
+    },
+    {
+      "courseName": "Trail des montagnes",
+      "location": "Grenoble",
+      "createdAt": "2023-09-20",
+      "id": 6
+    },
+    {
+      "courseName": "Course urbaine",
+      "location": "Lyon",
+      "createdAt": "2023-09-25",
+      "id": 7
+    },
+    {
+      "courseName": "Semi-marathon du lac",
+      "location": "Annecy",
+      "createdAt": "2023-09-30",
+      "id": 8
+    },
+    {
+      "courseName": "Rallye des vignes",
+      "location": "Bordeaux",
+      "createdAt": "2023-10-05",
+      "id": 9
+    },
+    {
+      "courseName": "Course en pleine nature",
+      "location": "Toulouse",
+      "createdAt": "2023-10-10",
+      "id": 10
+    },
+    {
+      "courseName": "Marathon de la ville",
+      "location": "Lille",
+      "createdAt": "2023-10-15",
+      "id": 11
+    },
+    {
+      "courseName": "Trail côtier",
+      "location": "Nice",
+      "createdAt": "2023-10-20",
+      "id": 12
+    },
+    {
+      "courseName": "Course des châteaux",
+      "location": "Bourges",
+      "createdAt": "2023-10-25",
+      "id": 13
+    },
+    {
+      "courseName": "Grand Prix de Monaco",
+      "location": "Monaco",
+      "createdAt": "2023-10-30",
+      "id": 14
+    },
+    {
+      "courseName": "Rallye des oliviers",
+      "location": "Nice",
+      "createdAt": "2023-11-01",
+      "id": 15
+    },
+    {
+      "courseName": "Course en montagne",
+      "location": "Chamonix",
+      "createdAt": "2023-11-05",
+      "id": 16
+    },
+    {
+      "courseName": "Marathon du désert",
+      "location": "Sahara",
+      "createdAt": "2023-11-10",
+      "id": 17
+    },
+    {
+      "courseName": "Trail nocturne",
+      "location": "Strasbourg",
+      "createdAt": "2023-11-15",
+      "id": 18
+    },
+    {
+      "courseName": "Course historique",
+      "location": "Paris",
+      "createdAt": "2023-11-20",
+      "id": 19
+    },
+    {
+      "courseName": "Sprint urbain",
+      "location": "Lyon",
+      "createdAt": "2023-11-25",
+      "id": 20
+    }
+  ]
+
+}
